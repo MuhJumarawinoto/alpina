@@ -3,7 +3,7 @@
     <div class="container d-flex justify-content-between">
 
       <div class="">
-        <img src="img/logo.png" style="width: 80px; height: auto;" class="img-fluid">
+        <img src="/img/logo.png" style="width: 80px; height: auto;" class="img-fluid">
         <!-- <h1><a href="index.html"><span>e</span>Business</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->

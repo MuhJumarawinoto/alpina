@@ -4,7 +4,7 @@
     <div class="row g-0">
         <div class="col-lg-6" style="background-color: rgb(219, 226, 221)">
             <div class="d-flex flex-row-reverse">
-              <img src="img/bahan/menara.png" alt="" class="img-fluid">
+              <img src="/img/bahan/menara.png" alt="" class="img-fluid">
             </div>
         </div>
       <div class="col-lg-6 work-right-text d-flex align-items-center" style="background-color: rgb(219, 226, 221)">
@@ -28,7 +28,7 @@
       </div>
       <div class="col-lg-6 work-right-text" style="background-color: rgb(72, 83, 66)">
         <div class="d-flex flex-row">
-          <img src="img/bahan/terjunkaki.png" alt="" class="img-fluid">
+          <img src="/img/bahan/terjunkaki.png" alt="" class="img-fluid">
         </div>
       </div>
     </div>

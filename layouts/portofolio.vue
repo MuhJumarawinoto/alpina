@@ -27,7 +27,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app portfolio-item">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/1.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/1.jpg" alt="" /></a>
               <div class="add-actions text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/1.jpg">
@@ -45,7 +45,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/2.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/2.jpg" alt="" /></a>
               <div class="add-actions text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/2.jpg">
@@ -63,7 +63,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-card">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/3.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/3.jpg" alt="" /></a>
               <div class="add-actions text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/3.jpg">
@@ -81,7 +81,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/4.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/4.jpg" alt="" /></a>
               <div class="add-actions text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/4.jpg">
@@ -99,7 +99,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/5.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/5.jpg" alt="" /></a>
               <div class="add-actions text-center text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/5.jpg">
@@ -117,7 +117,7 @@
         <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
           <div class="single-awesome-project">
             <div class="awesome-img">
-              <a href="#"><img src="img/portfolio/6.jpg" alt="" /></a>
+              <a href="#"><img src="/img/portfolio/6.jpg" alt="" /></a>
               <div class="add-actions text-center">
                 <div class="project-dec">
                   <a class="portfolio-lightbox" data-gallery="myGallery" href="img/portfolio/6.jpg">

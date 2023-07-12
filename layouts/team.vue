@@ -14,7 +14,7 @@
           <div class="single-team-member">
             <div class="team-img">
               <a href="#">
-                <img src="img/bahan/outdoor.png" alt="">
+                <img src="/img/bahan/outdoor.png" alt="">
               </a>
               <div class="team-social-icon text-center">
                 <ul>
@@ -47,7 +47,7 @@
           <div class="single-team-member">
             <div class="team-img">
               <a href="#">
-                <img src="img/bahan/olahraga.png" alt="">
+                <img src="/img/bahan/olahraga.png" alt="">
               </a>
               <div class="team-social-icon text-center">
                 <ul>
@@ -80,7 +80,7 @@
           <div class="single-team-member">
             <div class="team-img">
               <a href="#">
-                <img src="img/bahan/kesehatan.png" alt="">
+                <img src="/img/bahan/kesehatan.png" alt="">
               </a>
               <div class="team-social-icon text-center">
                 <ul>
@@ -113,7 +113,7 @@
           <div class="single-team-member">
             <div class="team-img">
               <a href="#">
-                <img src="img/bahan/relax.png" alt="">
+                <img src="/img/bahan/relax.png" alt="">
               </a>
               <div class="team-social-icon text-center">
                 <ul>
