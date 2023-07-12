@@ -252,8 +252,7 @@ div#preloader {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  /* background: rgba(0, 0, 0, 0.5); */
-  background: rgb(72, 83, 66, 0.8);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 #header.header-scrolled {
@@ -575,6 +574,7 @@ div#preloader {
 
 #hero .carousel-item::before {
   content: "";
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #hero .carousel-container {
@@ -805,7 +805,7 @@ div#preloader {
 }
 
 .single-team-member {
-  /* border: 1px solid #ddd; */
+  border: 1px solid #ddd;
 }
 
 .team-left-text h4 {
@@ -1770,22 +1770,6 @@ div#preloader {
 
 .ready-btn {
   border: 1px solid #fff;
-  border-radius: 30px;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 17px;
-  font-weight: 600;
-  margin-top: 30px;
-  padding: 12px 40px;
-  text-align: center;
-  text-transform: uppercase;
-  transition: all 0.4s ease 0s;
-  z-index: 222;
-}
-
-.ready-btm {
-  border: 1px solid rgb(72, 83, 66);
   border-radius: 30px;
   color: #fff;
   cursor: pointer;

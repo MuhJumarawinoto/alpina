@@ -45,10 +45,34 @@ export default defineNuxtConfig({
         {
           rel:'stylesheet',
           href:'https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap'
+        },
+        {
+          rel:'stylesheet',
+          href:'fonts/icomoon/style.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/magnific-popup.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/jquery-ui.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/owl.carousel.min.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/owl.theme.default.min.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/aos.css'
         }
       ],
       
     },
   },
-  components: true,
+  // components: true,
 })

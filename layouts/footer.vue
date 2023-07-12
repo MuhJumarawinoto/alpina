@@ -92,31 +92,4 @@
       <!-- <div id="preloader"></div> -->
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  
 </template>
-<script>
-export default {
-    foot: {
-        script: [
-            {
-                src: 'vendor/bootstrap/js/bootstrap.bundle.min.js'
-            },
-            {
-                src: 'vendor/glightbox/js/glightbox.min.js'
-            },
-            {
-                src: 'vendor/isotope-layout/isotope.pkgd.min.js'
-            },
-            {
-                src: 'vendor/swiper/swiper-bundle.min.js'
-            },
-            {
-                src: 'vendor/php-email-form/validate.js'
-            },
-            {
-                src: 'js/main.js'
-            },
-        ]
-    }
-}
-</script>
