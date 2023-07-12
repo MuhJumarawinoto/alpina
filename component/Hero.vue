@@ -11,8 +11,8 @@
         <div class="carousel-item active" style="background-image: url(/img/hero-carousel/1.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
-              <p class="animate__animated animate__fadeInUp">We're In The Business Of Helping You Start Your Business</p>
+              <h2 class="animate__animated animate__fadeInDown"></h2>
+              <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p>
               <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;"><i class="bi bi-whatsapp"></i> Pesan Disini</a>
             </div>
           </div>
@@ -21,8 +21,8 @@
         <div class="carousel-item" style="background-image: url(/img/hero-carousel/2.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-              <p class="animate__animated animate__fadeInUp">Helping Business Security & Peace of Mind for Your Family</p>
+              <h2 class="animate__animated animate__fadeInDown"></h2>
+              <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p>
               <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;"><i class="bi bi-whatsapp">  </i> Pesan Disini</a>
             </div>
           </div>
@@ -31,8 +31,8 @@
         <div class="carousel-item" style="background-image: url(/img/hero-carousel/3.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-              <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem</p>
+              <h2 class="animate__animated animate__fadeInDown"></h2>
+              <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p>
               <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;" ><i class="bi bi-whatsapp"></i>Pesan Disini</a>
             </div>
           </div>
