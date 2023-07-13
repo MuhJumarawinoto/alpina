@@ -2,7 +2,7 @@
   <header id="header" class="fixed-top d-flex align-items-center">
       <div class="container d-flex justify-content-between">
         <div>
-          <img src="/img/logo.png" style="width: 60px; height: auto;" class="img-fluid">
+          <img src="/img/logoutama.png" style="width: 80px; height: auto;" class="img-fluid">
         </div>
         <nav id="navbar d-flex justify-content-center" class="navbar">
           <ul>
