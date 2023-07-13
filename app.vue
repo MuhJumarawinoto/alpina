@@ -1,7 +1,8 @@
 <template>
   <div>
-    <NuxtLayout :name="Header"></NuxtLayout>
-    <NuxtPage></NuxtPage>
+    <NuxtLayout :name="Header">
+        <NuxtPage></NuxtPage>
+    </NuxtLayout>
     <NuxtLayout :name="Footer"></NuxtLayout>
     
   </div>
@@ -14,7 +15,11 @@ const Footer ="footer";
 useHead({
     script: [
             {
-                src: 'vendor/bootstrap/js/bootstrap.bundle.min.js',
+                src: 'js/main.js',
+                tagPosition: 'bodyClose'
+            },
+            {
+                src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js',
                 tagPosition: 'bodyClose'
             },
             {
@@ -31,10 +36,6 @@ useHead({
             },
             {
                 src: 'vendor/php-email-form/validate.js',
-                tagPosition: 'bodyClose'
-            },
-            {
-                src: 'js/main.js',
                 tagPosition: 'bodyClose'
             },
             {

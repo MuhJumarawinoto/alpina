@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      title : 'ini halaman home',
+      title : 'Alpina-Official',
       link : [
         {
           rel: 'icon',
@@ -48,11 +48,7 @@ export default defineNuxtConfig({
         },
         {
           rel:'stylesheet',
-          href:'fonts/icomoon/style.css'
-        },
-        {
-          rel:'stylesheet',
-          href:'css/magnific-popup.css'
+          href:'vendor/glightbox/css/glightbox.min.css'
         },
         {
           rel:'stylesheet',
