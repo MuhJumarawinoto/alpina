@@ -1,8 +1,8 @@
 <template>
   <div>
-    <NuxtLayout :name="Header">
+    <!-- <NuxtLayout :name="Header"> -->
         <NuxtPage></NuxtPage>
-    </NuxtLayout>
+    <!-- </NuxtLayout> -->
     <NuxtLayout :name="Footer"></NuxtLayout>
     
   </div>
