@@ -12,7 +12,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown"></h2>
-              <img class=" scrollto animate__animated animate__fadeInUp"  src="img/logoutama.png" style="width: 400px;" alt="">
+              <img class=" scrollto animate__animated animate__fadeInUp"  src="/img/logoutama.png" style="width: 400px;" alt="">
               <!-- <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p> -->
               <!-- <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;"><i class="bi bi-whatsapp"></i> Pesan Disini</a> -->
             </div>
@@ -23,7 +23,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown"></h2>
-              <img class="scrollto animate__animated animate__fadeInUp"  src="img/logoutama.png" style="width: 400px;" alt="">
+              <img class="scrollto animate__animated animate__fadeInUp"  src="/img/logoutama.png" style="width: 400px;" alt="">
               <!-- <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p> -->
               <!-- <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;"><i class="bi bi-whatsapp"></i> Pesan Disini</a> -->
             </div>
@@ -34,7 +34,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown"></h2>
-              <img class=" scrollto animate__animated animate__fadeInUp"  src="img/logoutama.png" style="width: 400px;" alt="">
+              <img class=" scrollto animate__animated animate__fadeInUp"  src="/img/logoutama.png" style="width: 400px;" alt="">
               <!-- <p class="animate__animated animate__fadeInUp" style="font-family:'Jacques Francois', serif;">ALPINA</p> -->
               <!-- <a href="https://wa.me/+6285959313394?text=Selamat%20Datang%20di%20Alpina-Official%20Store%2C%20ada%20yang%20saya%20bisa%20bantu%20..." class="btn-get-started scrollto animate__animated animate__fadeInUp" style="background:#2ddd22 ;"><i class="bi bi-whatsapp"></i> Pesan Disini</a> -->
             </div>
