@@ -1,7 +1,5 @@
 <template>
-    <NuxtLayout :name="Header"></NuxtLayout>
         <!-- ======= Portfolio Section ======= -->
-        
         <div id="portfolio" class="portfolio-area area-padding fix my-20" style=" background-color: rgb(219, 226, 221)">
             <div class="container">
               <div class="row">
@@ -142,9 +140,5 @@
               </div>
             </div>
           </div><!-- End Portfolio Section -->
-        <slot />
+       
 </template>
-
-<script>
-     const Header = "header";
-</script>

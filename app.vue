@@ -1,14 +1,12 @@
 <template>
   <div>
-    
+    <NuxtLayout :name="Header"></NuxtLayout>
         <NuxtPage></NuxtPage>
-    
-    
   </div>
 </template>
 
 <script setup>
-
+const Header = "header";
 
 useHead({
     script: [

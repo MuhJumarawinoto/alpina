@@ -2,12 +2,12 @@
   <header id="header" class="fixed-top d-flex align-items-center">
       <div class="container d-flex justify-content-between">
         <div>
-          <img src="/img/logoutama.png" style="width: 80px; height: auto;" class="img-fluid">
+          <a href="/"><img src="/img/logoutama.png" style="width: 80px; height: auto;" class="img-fluid"></a>
         </div>
         <nav id="navbar d-flex justify-content-center" class="navbar">
           <ul>
-            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-            <li><a class="nav-link scrollto" href="#portfolio">Produk</a></li>
+            <!-- <li><a class="nav-link scrollto active" href="#hero">Home</a></li> -->
+            <li><a class="nav-link scrollto" href="/product">Produk</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle" ></i>
         </nav>

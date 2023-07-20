@@ -1,6 +1,4 @@
 <template>
-    
-    <NuxtLayout :name="Header"></NuxtLayout>
         <Hero></Hero>
         <Product></Product>
         <Story></Story>
