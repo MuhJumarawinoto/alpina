@@ -28,7 +28,7 @@
               <div class="row awesome-project-content portfolio-container">
         
                 <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-d01 portfolio-item">
-                  <div class="single-awesome-project mb-0">
+                  <div class="single-awesome-project">
                     <div class="awesome-img">
                       <a href="#"><img src="/item/kode-product/D01/1.jpg" alt="" /></a>
                       <div class="add-actions text-center">
