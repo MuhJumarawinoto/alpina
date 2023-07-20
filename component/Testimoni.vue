@@ -7,10 +7,10 @@
         </div>
     
 
-    <div id="testimonials" class="testimonials pt-0">
-      <div class="container">
+    <div id="testimonials" class="testimonials pt-0" >
+      <div class="container" >
     
-        <div class="testimonials-slider swiper">
+        <div class="testimonials-slider swiper" >
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="testimonial-item">

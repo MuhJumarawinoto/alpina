@@ -13,14 +13,15 @@
             <!-- Start Portfolio -page -->
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-acc">Accesoris</li>
+                <!-- <li data-filter="*" class="filter-active">All</li> -->
+                <li data-filter=".filter-acc" class="filter-active">Accesoris</li>
                 <li data-filter=".filter-celana">Pants</li>
                 <li data-filter=".filter-tas">Bag</li>
                 <li data-filter=".filter-topi">Hat</li>
               </ul>
             </div>
           </div>
+          
     
           <div class="row awesome-project-content portfolio-container">
     
@@ -261,6 +262,7 @@
               </div>
             </div>
 
+            
           </div>
         </div>
       </div><!-- End Portfolio Section -->

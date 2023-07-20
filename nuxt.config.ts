@@ -15,6 +15,10 @@ export default defineNuxtConfig({
           href: 'css/style.css'
         },
         {
+          rel: 'stylesheet',
+          href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css'
+        },
+        {
           rel: 'icon',
           href: 'img/apple-touch-icon.png'
         },
@@ -65,10 +69,21 @@ export default defineNuxtConfig({
         {
           rel:'stylesheet',
           href:'css/aos.css'
+        },
+        {
+          rel:'stylesheet',
+          href:'css/main.css'
         }
       ],
       
     },
   },
   // components: true,
+  css: ['~/assets/css/main.css'],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
 })
